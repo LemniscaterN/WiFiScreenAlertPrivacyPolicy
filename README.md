@@ -1,0 +1,2 @@
+# WiFiScreenAlertPrivacyPolicy
+PrivacyPolicy for WiFiScreenAlert
